@@ -4,9 +4,9 @@ LICENSE: [MIT](./license.md)
 ![](./git%20logo.png)
 ---
 ### Содержание: ###
-1. [git add](./Hello.md)
-2. [git add](./add.md)
-3. [git add](./commit.md)
+1. [Hello](./Hello.md)
+2. [Git add](./add.md)
+3. [Git commit](./commit.md)
 ---
 
 Git Logo by **Jason Long** -- https://git-scm.com/downloads/logos,
