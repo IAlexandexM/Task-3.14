@@ -14,6 +14,7 @@ LICENSE: [MIT](./license.md)
 9. [Проверка состояния репозитория](./status.md)
 10. [Создание ветки и переключение на ветку](./branch.md)
 11. [Объединение ветвей](./merge.md)
+
 ---
 
 Git Logo by **Jason Long** -- [https://git-scm.com/downloads/logos](https://git-scm.com/downloads/logos),
