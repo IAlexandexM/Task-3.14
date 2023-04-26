@@ -6,7 +6,7 @@ LICENSE: [MIT](./license.md)
 ### Содержание: ###
 1. [Hello](./Hello.md)
 2. [Git add](./add.md)
-0. [Gir rm](./remove.md)
+0. [Git rm](./remove.md)
 3. [Git commit](./commit.md)
 4. [Git init](./init.md)
 5. [Git config](./config.md)
